@@ -1,4 +1,4 @@
-# SCARA-ROBOT-PT-BR-
+# SCARA-ROBOT (PT-BR)
 SCARA ROBOT (PT-BR)  This a Scara Robot Project in Matlab.
 
 Contains: 
